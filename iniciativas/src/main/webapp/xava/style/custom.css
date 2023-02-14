@@ -1,0 +1,56 @@
+/*
+Put here your own style
+*/
+.xava_select.editor.ui-autocomplete-input{
+	width:50%;
+}
+
+/* Para aplicar sólo en la columna */
+/*.novigente td:nth-of-type(11) {
+	font-weight: bold;
+	color: red !important;
+}*/
+
+.aprobado {
+	font-weight: bold;
+	background-color: #128305;
+}
+
+.row-green td:nth-child(10) {
+background: #ccffcc !important;
+}
+
+.row-red td:nth-of-type(10) {
+background: #ffb3b3 !important;
+}
+
+.row-blue td:nth-child(10) {
+background: #affaf9 !important;
+}
+
+.row-yellow td:nth-child(10) {
+background: #fdff97 !important;
+}
+
+.row-orange td:nth-child(10) {
+background: #ffcd52 !important;
+}
+
+.novigente {
+	color: red !important;
+}
+
+input#ox_Representantes_PersonasYCargos__diasVigente.editor{
+	width:80px;
+}
+
+.ox_Representantes_PersonasYCargos__list_col8_NOVIGENTE{
+
+	background-color:red;
+}
+
+/* Sirve para ocultar las pestañas de la parte superior */
+#module_header .unselected {
+  visibility:hidden;
+  
+}
